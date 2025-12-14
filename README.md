@@ -9,7 +9,7 @@
 cd public_html
 ```
 ```bash
-git clone https://github.com/kage-kao/FavouritesSite.git
+git clone https://github.com/kage-kao/FavouriteSite.git
 ```
 ```bash
 mv FavouritesSite/.* ./ 2>/dev/null || true
